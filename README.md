@@ -17,9 +17,9 @@
 
 ## Table of categories
 
-- [Easy](#quick-start)
-- [Medium](#quick-start)
-- [Hard](#quick-start)
+- [Easy](#Easy)
+- [Medium](#Medium)
+- [Hard](#Hard)
 
 
 ## Easy
