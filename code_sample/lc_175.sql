@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 SELECT
     P.FirstName,
     P.LastName,
