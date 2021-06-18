@@ -15,12 +15,14 @@
 </p>
 
 
-## Table of contents
+## Table of categories
 
-- [Quick start](#quick-start)
+- [Easy](#quick-start)
+- [Medium](#quick-start)
+- [Hard](#quick-start)
 
 
-## Quick start
+## Easy
 
 Some text
 
@@ -28,24 +30,11 @@ Some text
 - Instruction 2
 - Instruction 3
 
-## Status
+## Medium
 
 Here goes all the budgets
 
-## What's included
-
-Some text
-
-```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
-```
+## Hard
 
 ## Bugs and feature requests
 
