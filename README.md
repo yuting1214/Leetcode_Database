@@ -24,7 +24,7 @@
 
 ## Easy
 ### 2021/06/18
-- 175 - **Combine Two Tables Problem** 
+- 175 - **Combine Two Tables Problem**- [Problem](#Easy) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_175.sql) 
 
 ## Medium
 
