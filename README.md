@@ -14,6 +14,8 @@
   </p>
 </p>
 
+## Summary about daily progress (date, finished questions)
+- 2021/06/18
 
 ## Table of categories
 
@@ -25,6 +27,7 @@
 ## Easy
 ### 2021/06/18
 - 175 - **Combine Two Tables Problem**- [Problem](https://github.com/yuting1214/Leetcode_Database/tree/master/code_problem) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_175.sql) 
+
 
 ## Medium
 
