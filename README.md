@@ -32,6 +32,8 @@
 - 181 - **Employees Earning More Than Their Managers** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_181.sql)
 ### 2021/06/19
 - 182 - **Duplicate Emails** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_182.sql)
+- 183 - **Customers Who Never Order** - [Problem]() | [Practice]()
+- 183 - **Delete Duplicate Emails** - [Problem]() | [Practice]() **Marked**
 
 
 ## Medium
