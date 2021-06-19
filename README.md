@@ -23,6 +23,7 @@
 - [Easy](#Easy)
 - [Medium](#Medium)
 - [Hard](#Hard)
+- [Common pattern](#Common pattern)
 
 
 ## Easy
@@ -52,6 +53,8 @@
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
 
 ## Hard
+
+## Common pattern
 
 ## Reference
 - Question & Answer <https://circlecoder.com/leetcode-database-solution-list/>
