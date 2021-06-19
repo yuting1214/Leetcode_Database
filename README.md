@@ -15,8 +15,8 @@
 </p>
 
 ## Summary about daily progress (date, finished questions)
-- 2021/06/18, 3
-- 2021/06/19, 
+- 2021/06/18, (E:3
+- 2021/06/19, (E:14
 
 ## Table of categories
 
@@ -37,6 +37,14 @@
 - 197 - **Rising Temperature** - [Problem]() | [Practice]()
 - 511 - **Game Play Analysis I** - [Problem]() | [Practice]()
 - 512 - **Game Play Analysis II** - [Problem]() | [Practice]() ***Marked**
+- 577	 	**Employee Bonus** - [Problem]() | [Practice]()
+- 584	 	Find Customer Referee
+- 586	 	Customer Placing The Largest Number Of Orders
+- 595	 	Big Countries
+- 596	 	Classes More Than 5 Students
+- 597	 	Friend Requests I: Overall Acceptance Rate
+- 603	 	Consecutive Available Seats  ***Marked** skipped
+- 607	 	Sales Person
 
 
 ## Medium
