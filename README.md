@@ -16,7 +16,7 @@
 
 ## Summary about daily progress (date, finished questions)
 - 2021/06/18, (E:3
-- 2021/06/19, (E:14
+- 2021/06/19, (E:14, M:1)
 
 ## Table of categories
 
@@ -48,8 +48,8 @@
 
 
 ## Medium
-
-Here goes all the budgets
+### 2021/06/19
+- 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
 
 ## Hard
 
