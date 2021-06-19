@@ -33,7 +33,10 @@
 ### 2021/06/19
 - 182 - **Duplicate Emails** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_182.sql)
 - 183 - **Customers Who Never Order** - [Problem]() | [Practice]()
-- 183 - **Delete Duplicate Emails** - [Problem]() | [Practice]() **Marked**
+- 196 - **Delete Duplicate Emails** - [Problem]() | [Practice]() ***Marked**
+- 197 - **Rising Temperature** - [Problem]() | [Practice]()
+- 511 - **Game Play Analysis I** - [Problem]() | [Practice]()
+- 512 - **Game Play Analysis II** - [Problem]() | [Practice]() ***Marked**
 
 
 ## Medium
