@@ -17,6 +17,7 @@
 # Summary about daily progress (date, finished questions)
 - 2021/06/18, (E:3
 - 2021/06/19, (E:14, M:1)
+- 2021/06/20, (E:, M:)
 
 # Table of categories
 
@@ -49,8 +50,10 @@
 - 597	- **Friend Requests I: Overall Acceptance Rate** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_597.sql) ***Marked**
 - 603	 	Consecutive Available Seats  ***Marked** skipped
 - 607	 	Sales Person
-
-
+### 2021/06/20
+- 610	- **Triangle Judgement Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_610.sql) 
+- 613 - **Shortest Distance Problem** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/tree/master/code_sample/lc_613.sql) ***Marked**
+- 619	- **Biggest Single Number Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_619.sql) 
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
