@@ -14,7 +14,7 @@ create table cinema (seat_id  integer, free BOOLEAN);
 
 # Self join
 
-## Expand
+## (1) Expand
 ```
 select o.seat_id AS pre_s, o.free AS pre_f, n.seat_id current_s, n.free current_f
 FROM cinema o, cinema n;
@@ -58,7 +58,7 @@ FROM cinema o, cinema n;
 | 2     | 0     | 6         | 6         |
 | 1     | 1     | 6         | 6         |
 
-## Connect
+## (2-1)Connect- Exclude the later
 ```
 select o.seat_id AS pre_s, o.free AS pre_f, n.seat_id current_s, n.free current_f
 FROM cinema o, cinema n
@@ -72,3 +72,46 @@ WHERE (o.seat_id + 1) = n.seat_id;
 | 3     | 0     | 4         | 1         |
 | 4     | 1     | 5         | 1         |
 | 5     | 1     | 6         | 1         |
+
+## (2-2)Connect- Include the later
+```
+select o.seat_id AS pre_s, o.free AS pre_f, n.seat_id current_s, n.free current_f
+FROM cinema o, cinema n
+WHERE (o.seat_id + 1) = n.seat_id OR (o.seat_id - 1) = n.seat_id;
+```
+| pre_s | pre_f | current_s | current_f |
+|-------|-------|-----------|-----------|
+| 2     | 0     | 1         | 1         |
+| 3     | 0     | 2         | 0         |
+| 1     | 1     | 2         | 0         |
+| 4     | 1     | 3         | 0         |
+| 2     | 0     | 3         | 0         |
+| 5     | 1     | 4         | 1         |
+| 3     | 0     | 4         | 1         |
+| 6     | 1     | 5         | 1         |
+| 4     | 1     | 5         | 1         |
+| 5     | 1     | 6         | 1         |
+
+## (3-1) All consecutiveness (1 -> 2-2 -> 3-1)
+```
+select o.seat_id AS pre_s, o.free AS pre_f, n.seat_id current_s, n.free current_f
+FROM cinema o, cinema n
+WHERE ((o.seat_id + 1) = n.seat_id OR (o.seat_id - 1) = n.seat_id) AND (o.free = n.free)
+ORDER BY pre_s;
+```
+
+| pre_s | pre_f | current_s | current_f |
+|-------|-------|-----------|-----------|
+| 2     | 0     | 3         | 0         |
+| 3     | 0     | 2         | 0         |
+| 4     | 1     | 5         | 1         |
+| 5     | 1     | 4         | 1         |
+| 5     | 1     | 6         | 1         |
+| 6     | 1     | 5         | 1         |
+
+## (3-2) One type consecutiveness (1 -> 2-2 -> 3-2)
+
+
+
+## (4) Get distinct
+
