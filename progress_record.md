@@ -18,7 +18,7 @@
 | 597  | Friend Requests I: Overall Acceptance Rate               | Easy       |        | Done   | 2021/6/19     |
 | 603  | Consecutive Available Seats                              | Easy       |        | Done   | 2021/6/19     |
 | 607  | Sales Person                                             | Easy       |        | Done   | 2021/6/19     |
-| 610  | Triangle Judgement                                       | Easy       |        |        |               |
+| 610  | Triangle Judgement                                       | Easy       |        | Done   | 2021/6/20     |
 | 613  | Shortest Distance In A Line                              | Easy       |        |        |               |
 | 619  | Biggest Single Number                                    | Easy       |        |        |               |
 | 620  | Not Boring Movies                                        | Easy       |        |        |               |
