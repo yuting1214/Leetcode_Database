@@ -70,6 +70,7 @@
     - Recipe 1.10. [**Returning n Random Records from a Table**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/recipe_1_10.md)
  
 - Consecutiveness
+    - Recipe 10.1.[**Locating a Range of Consecutive Values**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/recipe_10_1.md)
 - Date
 # Reference
 - Question & Answer <https://circlecoder.com/leetcode-database-solution-list/>
