@@ -57,10 +57,12 @@
 - 620	- **Not Boring Movies Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_620.sql) 
 - 627	- **Swap Salary Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_627.sql) ***Marked**
 - 1050 - **Actors And Directors Who Cooperated At Least Three Times Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1050.sql)
+- 1068 - **Product Sales Analysis I Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1068.sql)
+- 1069 - **Product Sales Analysis II Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1069.sql)
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
-
+- 1070 - **Product Sales Analysis III Problem** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) 
 ## Hard
 
 
@@ -78,6 +80,8 @@
 - Consecutiveness
     - Recipe 10.1.[**Locating a Range of Consecutive Values**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/recipe_10_1.md)
 - Date
+- First or Last transaction
+    - **LC 1070** [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) 
 # Reference
 - Question & Answer <https://circlecoder.com/leetcode-database-solution-list/>
 
