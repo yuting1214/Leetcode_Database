@@ -20,15 +20,15 @@
 
 # Table of categories
 
-## Problems
+## Part.1 Problems
 - [Easy](#Easy)
 - [Medium](#Medium)
 - [Hard](#Hard)
-## Note
+## Part.2 Note
 - [Key concepts](#Keyconcepts)
 - [Common patterns](#Commonpatterns)
 
-# Problems
+# Part.1 Problems
 ## Easy
 ### 2021/06/18
 - 175 - **Combine Two Tables Problem** - [Problem](https://github.com/yuting1214/Leetcode_Database/tree/master/code_problem) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_175.sql) 
@@ -58,8 +58,11 @@
 ## Hard
 
 
-# Note
+# Part.2 Note
+
 ## Key concepts
+1. Self join
+2. Window function
 ## Common patterns
 - Recipe 1.10. (**Returning n Random Records from a Table**)
 
