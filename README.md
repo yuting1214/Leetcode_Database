@@ -56,6 +56,7 @@
 - 619	- **Biggest Single Number Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_619.sql) 
 - 620	- **Not Boring Movies Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_620.sql) 
 - 627	- **Swap Salary Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_627.sql) ***Marked**
+- 1050 - **Actors And Directors Who Cooperated At Least Three Times Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1050.sql)
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
