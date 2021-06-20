@@ -54,6 +54,7 @@
 - 610	- **Triangle Judgement Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_610.sql) 
 - 613 - **Shortest Distance Problem** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/tree/master/code_sample/lc_613.sql) ***Marked**
 - 619	- **Biggest Single Number Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_619.sql) 
+- 620	- **Not Boring Movies Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_620.sql) 
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
