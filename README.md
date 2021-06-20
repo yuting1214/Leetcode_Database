@@ -17,7 +17,7 @@
 # Summary about daily progress (date, finished questions)
 - 2021/06/18, (E:3
 - 2021/06/19, (E:14, M:1)
-- 2021/06/20, (E:, M:)
+- 2021/06/20, (E:8, M:1)
 
 # Table of categories
 
@@ -62,7 +62,9 @@
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
+### 2021/06/20
 - 1070 - **Product Sales Analysis III Problem** - [Problem](https://github.com/yuting1214/Leetcode_Database/blob/master/code_problem/lc_1070.md) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) ***Marked**
+
 ## Hard
 
 
