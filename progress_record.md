@@ -1,4 +1,4 @@
-# Easy problems (78)
+# Easy problems (Total:78, Completed: )
 | No.  | Problem                                                  | Difficulty | Answer | Status | Finished date |
 |------|----------------------------------------------------------|------------|--------|--------|---------------|
 | 175  | Combine Two Tables                                       | Easy       |        | Done   | 2021/6/18     |
@@ -19,9 +19,9 @@
 | 603  | Consecutive Available Seats                              | Easy       |        | Done   | 2021/6/19     |
 | 607  | Sales Person                                             | Easy       |        | Done   | 2021/6/19     |
 | 610  | Triangle Judgement                                       | Easy       |        | Done   | 2021/6/20     |
-| 613  | Shortest Distance In A Line                              | Easy       |        |        |               |
-| 619  | Biggest Single Number                                    | Easy       |        |        |               |
-| 620  | Not Boring Movies                                        | Easy       |        |        |               |
+| 613  | Shortest Distance In A Line                              | Easy       |        | Done   | 2021/6/20     |
+| 619  | Biggest Single Number                                    | Easy       |        | Done   | 2021/6/20     |
+| 620  | Not Boring Movies                                        | Easy       |        | Done   | 2021/6/20     |
 | 627  | Swap Salary                                              | Easy       |        |        |               |
 | 1050 | Actors And Directors Who Cooperated At Least Three Times | Easy       |        |        |               |
 | 1068 | Product Sales Analysis I                                 | Easy       |        |        |               |
