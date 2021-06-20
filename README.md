@@ -64,7 +64,7 @@
 1. Self join
 2. Window function
 ## Common patterns
-- Recipe 1.10. (**Returning n Random Records from a Table**)
+- Recipe 1.10. [**Returning n Random Records from a Table**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/recipe_1_10.md)
 
 # Reference
 - Question & Answer <https://circlecoder.com/leetcode-database-solution-list/>
