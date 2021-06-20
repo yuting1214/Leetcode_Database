@@ -62,7 +62,7 @@
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
-- 1070 - **Product Sales Analysis III Problem** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) 
+- 1070 - **Product Sales Analysis III Problem** - [Problem](https://github.com/yuting1214/Leetcode_Database/blob/master/code_problem/lc_1070.md) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) ***Marked**
 ## Hard
 
 
@@ -81,7 +81,7 @@
     - Recipe 10.1.[**Locating a Range of Consecutive Values**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/recipe_10_1.md)
 - Date
 - First or Last transaction
-    - **LC 1070** [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) 
+    - **LC 1070** [Problem](https://github.com/yuting1214/Leetcode_Database/blob/master/code_problem/lc_1070.md) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) 
 # Reference
 - Question & Answer <https://circlecoder.com/leetcode-database-solution-list/>
 
