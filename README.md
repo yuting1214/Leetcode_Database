@@ -14,18 +14,21 @@
   </p>
 </p>
 
-## Summary about daily progress (date, finished questions)
+# Summary about daily progress (date, finished questions)
 - 2021/06/18, (E:3
 - 2021/06/19, (E:14, M:1)
 
-## Table of categories
+# Table of categories
 
+## Problems
 - [Easy](#Easy)
 - [Medium](#Medium)
 - [Hard](#Hard)
-- [Common pattern](#Common pattern)
+## Note
+- [Key concepts](#Keyconcepts)
+- [Common patterns](#Commonpatterns)
 
-
+# Problems
 ## Easy
 ### 2021/06/18
 - 175 - **Combine Two Tables Problem** - [Problem](https://github.com/yuting1214/Leetcode_Database/tree/master/code_problem) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_175.sql) 
@@ -39,7 +42,7 @@
 - 511 - **Game Play Analysis I** - [Problem]() | [Practice]()
 - 512 - **Game Play Analysis II** - [Problem]() | [Practice]() ***Marked**
 - 577	 	**Employee Bonus** - [Problem]() | [Practice]()
-- 584	 	Find Customer Referee
+- 584	 	**Find Customer Referee**
 - 586	 	Customer Placing The Largest Number Of Orders
 - 595	 	Big Countries
 - 596	 	Classes More Than 5 Students
@@ -54,7 +57,15 @@
 
 ## Hard
 
-## Common pattern
 
-## Reference
+# Note
+## Key concepts
+## Common patterns
+- Recipe 1.10. (**Returning n Random Records from a Table**)
+
+# Reference
 - Question & Answer <https://circlecoder.com/leetcode-database-solution-list/>
+
+# Material
+- [SQL Cookbook](https://www.oreilly.com/library/view/sql-cookbook/0596009763/)(PDF)
+- [SQL Cookbook, 2nd Edition](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
