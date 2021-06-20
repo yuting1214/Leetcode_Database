@@ -110,8 +110,28 @@ ORDER BY pre_s;
 | 6     | 1     | 5         | 1         |
 
 ## (3-2) One type consecutiveness (1 -> 2-2 -> 3-2)
+```
+SELECT o.seat_id AS pre_s, o.free AS pre_f, n.seat_id current_s, n.free current_f
+FROM cinema o, cinema n
+WHERE ((o.seat_id + 1) = n.seat_id OR (o.seat_id - 1) = n.seat_id) AND ((o.free = 1 AND n.free = 1))
+ORDER BY pre_s;
+```
+| pre_s | pre_f | current_s | current_f |
+|-------|-------|-----------|-----------|
+| 4     | 1     | 5         | 1         |
+| 5     | 1     | 4         | 1         |
+| 5     | 1     | 6         | 1         |
+| 6     | 1     | 5         | 1         |
 
-
-
-## (4) Get distinct
-
+## (4) Get distinct (1 -> 2-2 -> 3-2 -> 4)
+```
+SELECT DISTINCT o.seat_id AS pre_s
+FROM cinema o, cinema n
+WHERE ((o.seat_id + 1) = n.seat_id OR (o.seat_id - 1) = n.seat_id) AND ((o.free = 1 AND n.free = 1))
+ORDER BY pre_s;
+```
+| pre_s |
+|-------|
+| 4     | 
+| 5     |
+| 6     |
