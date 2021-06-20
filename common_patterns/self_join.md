@@ -13,6 +13,8 @@ create table cinema (seat_id  integer, free BOOLEAN);
 | 6       | 1    |
 
 # Self join
+
+## Expand
 ```
 select o.seat_id AS pre_s, o.free AS pre_f, n.seat_id current_s, n.free current_f
 FROM cinema o, cinema n;
@@ -55,3 +57,18 @@ FROM cinema o, cinema n;
 | 3     | 0     | 6         | 6         |
 | 2     | 0     | 6         | 6         |
 | 1     | 1     | 6         | 6         |
+
+## Connect
+```
+select o.seat_id AS pre_s, o.free AS pre_f, n.seat_id current_s, n.free current_f
+FROM cinema o, cinema n
+WHERE (o.seat_id + 1) = n.seat_id;
+```
+
+| pre_s | pre_f | current_s | current_f |
+|-------|-------|-----------|-----------|
+| 1     | 1     | 2         | 0         |
+| 2     | 0     | 3         | 0         |
+| 3     | 0     | 4         | 1         |
+| 4     | 1     | 5         | 1         |
+| 5     | 1     | 6         | 1         |
