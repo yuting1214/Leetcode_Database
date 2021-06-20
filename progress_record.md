@@ -22,10 +22,10 @@
 | 613  | Shortest Distance In A Line                              | Easy       |        | Done   | 2021/6/20     |
 | 619  | Biggest Single Number                                    | Easy       |        | Done   | 2021/6/20     |
 | 620  | Not Boring Movies                                        | Easy       |        | Done   | 2021/6/20     |
-| 627  | Swap Salary                                              | Easy       |        |        |               |
-| 1050 | Actors And Directors Who Cooperated At Least Three Times | Easy       |        |        |               |
-| 1068 | Product Sales Analysis I                                 | Easy       |        |        |               |
-| 1069 | Product Sales Analysis II                                | Easy       |        |        |               |
+| 627  | Swap Salary                                              | Easy       |        | Done   | 2021/6/20     |
+| 1050 | Actors And Directors Who Cooperated At Least Three Times | Easy       |        | Done   | 2021/6/20     |
+| 1068 | Product Sales Analysis I                                 | Easy       |        | Done   | 2021/6/20     |
+| 1069 | Product Sales Analysis II                                | Easy       |        | Done   | 2021/6/20     |
 | 1075 | Project Employees I                                      | Easy       |        |        |               |
 | 1076 | Project Employees II                                     | Easy       |        |        |               |
 | 1082 | Sales Analysis I                                         | Easy       |        |        |               |
@@ -100,7 +100,7 @@
 | 614  | Second Degree Follower                                 | Medium     |        |        |               |
 | 626  | Exchange Seats                                         | Medium     |        |        |               |
 | 1045 | Customers Who Bought All Products                      | Medium     |        |        |               |
-| 1070 | Product Sales Analysis III                             | Medium     |        |        |               |
+| 1070 | Product Sales Analysis III                             | Medium     |        | Done   | 2021/6/20     |
 | 1077 | Project Employees III                                  | Medium     |        |        |               |
 | 1098 | Unpopular Books                                        | Medium     |        |        |               |
 | 1107 | New Users Daily Count                                  | Medium     |        |        |               |
