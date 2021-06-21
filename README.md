@@ -59,12 +59,18 @@
 - 1050 - **Actors And Directors Who Cooperated At Least Three Times Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1050.sql)
 - 1068 - **Product Sales Analysis I Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1068.sql)
 - 1069 - **Product Sales Analysis II Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1069.sql)
+### 2021/06/21
+- 1075 - **Project Employees I Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1075.sql)
+- 1076 - **Project Employees II Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1076.sql)
+
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
 ### 2021/06/20
 - 1070 - **Product Sales Analysis III Problem** - [Problem](https://github.com/yuting1214/Leetcode_Database/blob/master/code_problem/lc_1070.md) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) ***Marked**
-
+### 2021/06/21
+- 1077 - **Project Employees III Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1077.sql)
+- 184 - **Department Highest Salary Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_184.sql)
 ## Hard
 
 
