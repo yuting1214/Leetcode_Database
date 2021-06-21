@@ -1,4 +1,4 @@
-# Easy problems (Total:78, Completed: )
+# Easy problems (Total:78, Completed: 33)
 | No.  | Problem                                                  | Difficulty | Answer | Status | Finished date |
 |------|----------------------------------------------------------|------------|--------|--------|---------------|
 | 175  | Combine Two Tables                                       | Easy       |        | Done   | 2021/6/18     |
@@ -80,7 +80,7 @@
 | 1873 | Calculate Special Bonus                                  | Easy       |        |        |               |
 | 1890 | The Latest Login in 2020                                 | Easy       |        |        |               |
 
-# Medium Problems (65)
+# Medium Problems (Total:65, Completed:3)
 | No.  | Problem                                                | Difficulty | Answer | Status | Finished date |
 |------|--------------------------------------------------------|------------|:------:|:------:|:-------------:|
 | 177  | Nth Highest Salary                                     | Medium     |        |        |               |
