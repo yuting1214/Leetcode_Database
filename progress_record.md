@@ -26,14 +26,14 @@
 | 1050 | Actors And Directors Who Cooperated At Least Three Times | Easy       |        | Done   | 2021/6/20     |
 | 1068 | Product Sales Analysis I                                 | Easy       |        | Done   | 2021/6/20     |
 | 1069 | Product Sales Analysis II                                | Easy       |        | Done   | 2021/6/20     |
-| 1075 | Project Employees I                                      | Easy       |        |        |               |
-| 1076 | Project Employees II                                     | Easy       |        |        |               |
-| 1082 | Sales Analysis I                                         | Easy       |        |        |               |
-| 1083 | Sales Analysis II                                        | Easy       |        |        |               |
-| 1084 | Sales Analysis III                                       | Easy       |        |        |               |
-| 1113 | Reported Posts                                           | Easy       |        |        |               |
-| 1141 | User Activity For The Past 30 Days I                     | Easy       |        |        |               |
-| 1142 | User Activity For The Past 30 Days II                    | Easy       |        |        |               |
+| 1075 | Project Employees I                                      | Easy       |        | Done   | 2021/6/21     |
+| 1076 | Project Employees II                                     | Easy       |        | Done   | 2021/6/21     |
+| 1082 | Sales Analysis I                                         | Easy       |        | Done   | 2021/6/21     |
+| 1083 | Sales Analysis II                                        | Easy       |        | Done   | 2021/6/21     |
+| 1084 | Sales Analysis III                                       | Easy       |        | Done   | 2021/6/21     |
+| 1113 | Reported Posts                                           | Easy       |        | Done   | 2021/6/21     |
+| 1141 | User Activity For The Past 30 Days I                     | Easy       |        | Done   | 2021/6/21     |
+| 1142 | User Activity For The Past 30 Days II                    | Easy       |        | Done   | 2021/6/21     |
 | 1148 | Article Views I                                          | Easy       |        |        |               |
 | 1173 | Immediate Food Delivery I                                | Easy       |        |        |               |
 | 1179 | Reformat Department Table                                | Easy       |        |        |               |
@@ -86,7 +86,7 @@
 | 177  | Nth Highest Salary                                     | Medium     |        |        |               |
 | 178  | Rank Scores                                            | Medium     |        |        |               |
 | 180  | Consecutive Numbers                                    | Medium     |        |        |               |
-| 184  | Department Highest Salary                              | Medium     |        |        |               |
+| 184  | Department Highest Salary                              | Medium     |        | Done   | 2021/6/21     |
 | 534  | Game Play Analysis III                                 | Medium     |        |        |               |
 | 550  | Game Play Analysis IV                                  | Medium     |        |        |               |
 | 570  | Managers With At Least 5 Direct Reports                | Medium     |        |        |               |
@@ -101,7 +101,7 @@
 | 626  | Exchange Seats                                         | Medium     |        |        |               |
 | 1045 | Customers Who Bought All Products                      | Medium     |        |        |               |
 | 1070 | Product Sales Analysis III                             | Medium     |        | Done   | 2021/6/20     |
-| 1077 | Project Employees III                                  | Medium     |        |        |               |
+| 1077 | Project Employees III                                  | Medium     |        | Done   | 2021/6/21     |
 | 1098 | Unpopular Books                                        | Medium     |        |        |               |
 | 1107 | New Users Daily Count                                  | Medium     |        |        |               |
 | 1112 | Highest Grade For Each Student                         | Medium     |        |        |               |
