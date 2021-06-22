@@ -1,3 +1,4 @@
+# Table
 create table Students(student_id integer, student_name  varchar(10));
 insert into Students(student_id, student_name) values(1, 'Alice');
 insert into Students(student_id, student_name) values(2, 'Bob');
@@ -9,7 +10,20 @@ insert into Subjects(subject_name ) values('Math');
 insert into Subjects(subject_name ) values('Physics');
 insert into Subjects(subject_name ) values('Programming');
 
+create table Examinations(student_id integer, subject_name varchar(15));
+insert into Examinations(student_id, subject_name) values(1, 'Math');
+insert into Examinations(student_id, subject_name) values(1, 'Physics');
+insert into Examinations(student_id, subject_name) values(1, 'Programming');
+insert into Examinations(student_id, subject_name) values(2, 'Programming');
+insert into Examinations(student_id, subject_name) values(1, 'Physics');
+insert into Examinations(student_id, subject_name) values(1, 'Math');
+insert into Examinations(student_id, subject_name) values(13, 'Math');
+insert into Examinations(student_id, subject_name) values(13, 'Programming');
+insert into Examinations(student_id, subject_name) values(13, 'Physics');
+insert into Examinations(student_id, subject_name) values(2, 'Math');
+insert into Examinations(student_id, subject_name) values(1, 'Math');
 
+# Solution
 FROM
 (SELECT Students.student_id, Subjects.subject_name 
 FROM Students
