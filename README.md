@@ -84,6 +84,7 @@
 ## Key concepts
 1. Self join
     - [Explain](https://www.youtube.com/watch?v=yOsfYU55JDU)
+    - Self join vs single table compares columns
 2. Window function
     - 
 ## Common patterns
