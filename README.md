@@ -68,6 +68,9 @@
 - 1113 - **Reported Posts** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1113.sql)
 - 1141 - **User Activity For The Past 30 Days I** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1141.sql)
 - 1142 - **User Activity For The Past 30 Days II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1142.sql)
+### 2021/06/22
+- 1148 - **Article Views I Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1148.sql)
+- 1173 - **Immediate Food Delivery I** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1173.sql)
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
@@ -76,6 +79,8 @@
 ### 2021/06/21
 - 1077 - **Project Employees III Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1077.sql)
 - 184 - **Department Highest Salary Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_184.sql)
+### 2021/06/22
+- 1174 - **Immediate Food Delivery II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1174.sql)
 ## Hard
 
 
