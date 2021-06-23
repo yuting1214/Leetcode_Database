@@ -24,10 +24,29 @@ insert into Examinations(student_id, subject_name) values(2, 'Math');
 insert into Examinations(student_id, subject_name) values(1, 'Math');
 
 # Solution
+SELECT 
 FROM
-(SELECT Students.student_id, Subjects.subject_name 
+
+SELECT E.student_id, cross_table.student_id, cross_table.subject_name, SUM(E.subject_name IS NOT NULL)
+FROM
+(SELECT Students.student_name, Students.student_id, Subjects.subject_name 
 FROM Students
 CROSS JOIN Subjects) AS cross_table
 LEFT JOIN Examinations E
 ON cross_table.student_id = E.student_id 
 AND cross_table.subject_name = E.subject_name  
+GROUP BY E.student_id, cross_table.student_id, cross_table.subject_name
+
+SELECT agg.student_id, agg.student_id, agg.subject_name, SUM(E.subject_name IS NOT NULL)
+FROM
+(SELECT Students.student_name, Students.student_id, Subjects.subject_name 
+FROM Students
+CROSS JOIN Subjects) AS cross_table
+LEFT JOIN Examinations E
+ON cross_table.student_id = E.student_id 
+AND cross_table.subject_name = E.subject_name) agg 
+GROUP BY agg.student_name, agg.student_id, agg.subject_name
+
+
+JOIN student_name s
+ON s.student_id
