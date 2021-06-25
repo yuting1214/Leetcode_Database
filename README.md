@@ -74,6 +74,9 @@
 - 1173 - **Immediate Food Delivery I** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1173.sql)
 - 1211 - **Queries Quality And Percentage** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1211.sql)
 - 1241 - **Number Of Comments Per Post** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1241.sql)
+### 2021/06/25
+- 1251 - **Average Selling Price Problem** - [Problem]() | [Practice]() ***Marked**
+
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
