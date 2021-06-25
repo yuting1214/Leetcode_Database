@@ -19,7 +19,7 @@
 - 2021/06/19, (E:14, M:1)
 - 2021/06/20, (E:8, M:1)
 - 2021/06/21, (E:8, M:2)
-- 2021/06/22, (E:4, M:1)
+- 2021/06/22, (E:5, M:1)
 # Table of categories
 
 ## Part.1 Problems
@@ -74,9 +74,10 @@
 - 1173 - **Immediate Food Delivery I** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1173.sql)
 - 1211 - **Queries Quality And Percentage** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1211.sql)
 - 1241 - **Number Of Comments Per Post** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1241.sql)
+- 1280 - **Students And Examinations** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1280.sql) ***Marked**
 ### 2021/06/25
-- 1251 - **Average Selling Price Problem** - [Problem]() | [Practice]() ***Marked**
-
+- 1251 - **Average Selling Price Problem** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1251.sql)
+- 1294 - **Weather Type In Each Country** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1294.sql)
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
