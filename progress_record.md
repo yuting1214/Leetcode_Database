@@ -34,11 +34,11 @@
 | 1113 | Reported Posts                                           | Easy       |        | Done   | 2021/6/21     |
 | 1141 | User Activity For The Past 30 Days I                     | Easy       |        | Done   | 2021/6/21     |
 | 1142 | User Activity For The Past 30 Days II                    | Easy       |        | Done   | 2021/6/21     |
-| 1148 | Article Views I                                          | Easy       |        |        |               |
-| 1173 | Immediate Food Delivery I                                | Easy       |        |        |               |
+| 1148 | Article Views I                                          | Easy       |        | Done   | 2021/6/22     |
+| 1173 | Immediate Food Delivery I                                | Easy       |        | Done   | 2021/6/22     |
 | 1179 | Reformat Department Table                                | Easy       |        |        |               |
-| 1211 | Queries Quality And Percentage                           | Easy       |        |        |               |
-| 1241 | Number Of Comments Per Post                              | Easy       |        |        |               |
+| 1211 | Queries Quality And Percentage                           | Easy       |        | Done   | 2021/6/22     |
+| 1241 | Number Of Comments Per Post                              | Easy       |        | Done   | 2021/6/22     |
 | 1251 | Average Selling Price                                    | Easy       |        |        |               |
 | 1280 | Students And Examinations                                | Easy       |        |        |               |
 | 1294 | Weather Type In Each Country                             | Easy       |        |        |               |
@@ -110,7 +110,7 @@
 | 1149 | Article Views II                                       | Medium     |        |        |               |
 | 1158 | Market Analysis I                                      | Medium     |        |        |               |
 | 1164 | Product Price At A Given Date                          | Medium     |        |        |               |
-| 1174 | Immediate Food Delivery II                             | Medium     |        |        |               |
+| 1174 | Immediate Food Delivery II                             | Medium     |        | Done   | 2021/6/22     |
 | 1193 | Monthly Transactions I                                 | Medium     |        |        |               |
 | 1204 | Last Person To Fit In The Elevator                     | Medium     |        |        |               |
 | 1205 | Monthly Transactions II                                | Medium     |        |        |               |
