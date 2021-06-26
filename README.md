@@ -82,8 +82,15 @@
 - 1303 - **Find The Team Size** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1303.sql)
 - 1322 - **Ads Performance** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1322.sql)
 ### 2021/06/26
+- 1327 - **List The Products Ordered In A Period** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1327.sql)
+- 1350 - **Students With Invalid Departments** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1350.sql)
+- 1378 - **Replace Employee ID With The Unique Identifier** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1378.sql)
+- 1407 - **Top Travellers** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1407.sql)
 - 1435 - **Create A Session Bar Chart** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1435.sql) ***Marked**
+- 1484 - **Group Sold Products By The Date** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1484.sql)
+- 1495 - **Friendly Movies Streamed Last Month** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1495.sql)
 - 1511 - **Customer Order Frequency Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1511.sql) ***Marked** **Hard**
+
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
