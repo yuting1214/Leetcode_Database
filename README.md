@@ -112,6 +112,7 @@
 - Consecutiveness
     - Recipe 10.1.[**Locating a Range of Consecutive Values**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/recipe_10_1.md)
 - Date
+    - Check in specific month [**Find in month**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/Check_in_specific_month.md)
 - First or Last transaction
     - **LC 1070** [Problem](https://github.com/yuting1214/Leetcode_Database/blob/master/code_problem/lc_1070.md) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) 
 - String
