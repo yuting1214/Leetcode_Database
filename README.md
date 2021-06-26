@@ -90,7 +90,7 @@
 - 1484 - **Group Sold Products By The Date** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1484.sql)
 - 1495 - **Friendly Movies Streamed Last Month** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1495.sql)
 - 1511 - **Customer Order Frequency Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1511.sql) ***Marked** **Hard**
-
+- 1517 - **Find Users With Valid Emails Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1517.sql) ***Marked**
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
@@ -124,6 +124,7 @@
     - **LC 1070** [Problem](https://github.com/yuting1214/Leetcode_Database/blob/master/code_problem/lc_1070.md) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) 
 - String
     - Recipe 6.10.[**Creating a Delimited List from Table Rows**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/recipe_6_10.md)
+    - Regular expression [[**Find pattern**]]()
 
 
 # Reference
