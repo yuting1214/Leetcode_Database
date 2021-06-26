@@ -83,7 +83,7 @@
 - 1322 - **Ads Performance** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1322.sql)
 ### 2021/06/26
 - 1435 - **Create A Session Bar Chart** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1435.sql) ***Marked**
-
+- 1511 - **Customer Order Frequency Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1511.sql) ***Marked** **Hard**
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
