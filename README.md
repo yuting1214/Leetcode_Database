@@ -21,6 +21,7 @@
 - 2021/06/21, (E:8, M:2)
 - 2021/06/22, (E:5, M:1)
 - 2021/06/25, (E:4)
+- 2021/06/26, (E:13)
 # Table of categories
 
 ## Part.1 Problems
@@ -91,6 +92,11 @@
 - 1495 - **Friendly Movies Streamed Last Month** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1495.sql)
 - 1511 - **Customer Order Frequency Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1511.sql) ***Marked** **Hard**
 - 1517 - **Find Users With Valid Emails Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1517.sql) ***Marked**
+- 1527 - **Patients With A Condition** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1527.sql) 
+- 1543 - **Fix Product Name Format** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1543.sql)
+- 1565 - **Unique Orders And Customers Per Month** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1565.sql)
+- 1571 - **Warehouse Manager** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1571.sql)
+  
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
