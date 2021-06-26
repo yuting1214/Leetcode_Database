@@ -39,11 +39,11 @@
 | 1179 | Reformat Department Table                                | Easy       |        |        |               |
 | 1211 | Queries Quality And Percentage                           | Easy       |        | Done   | 2021/6/22     |
 | 1241 | Number Of Comments Per Post                              | Easy       |        | Done   | 2021/6/22     |
-| 1251 | Average Selling Price                                    | Easy       |        |        |               |
+| 1251 | Average Selling Price                                    | Easy       |        | Done   | 2021/6/25     |
 | 1280 | Students And Examinations                                | Easy       |        |        |               |
-| 1294 | Weather Type In Each Country                             | Easy       |        |        |               |
-| 1303 | Find The Team Size                                       | Easy       |        |        |               |
-| 1322 | Ads Performance                                          | Easy       |        |        |               |
+| 1294 | Weather Type In Each Country                             | Easy       |        | Done   | 2021/6/25     |
+| 1303 | Find The Team Size                                       | Easy       |        | Done   | 2021/6/25     |
+| 1322 | Ads Performance                                          | Easy       |        | Done   | 2021/6/25     |
 | 1327 | List The Products Ordered In A Period                    | Easy       |        |        |               |
 | 1350 | Students With Invalid Departments                        | Easy       |        |        |               |
 | 1378 | Replace Employee ID With The Unique Identifier           | Easy       |        |        |               |
