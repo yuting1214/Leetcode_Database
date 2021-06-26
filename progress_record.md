@@ -1,4 +1,4 @@
-# Easy problems (Total:78, Completed: 33)
+# Easy problems (Total:78, Completed: 54)
 | No.  | Problem                                                  | Difficulty | Answer | Status | Finished date |
 |------|----------------------------------------------------------|------------|--------|--------|---------------|
 | 175  | Combine Two Tables                                       | Easy       |        | Done   | 2021/6/18     |
@@ -44,19 +44,19 @@
 | 1294 | Weather Type In Each Country                             | Easy       |        | Done   | 2021/6/25     |
 | 1303 | Find The Team Size                                       | Easy       |        | Done   | 2021/6/25     |
 | 1322 | Ads Performance                                          | Easy       |        | Done   | 2021/6/25     |
-| 1327 | List The Products Ordered In A Period                    | Easy       |        |        |               |
-| 1350 | Students With Invalid Departments                        | Easy       |        |        |               |
-| 1378 | Replace Employee ID With The Unique Identifier           | Easy       |        |        |               |
-| 1407 | Top Travellers                                           | Easy       |        |        |               |
-| 1435 | Create A Session Bar Chart                               | Easy       |        |        |               |
-| 1484 | Group Sold Products By The Date                          | Easy       |        |        |               |
-| 1495 | Friendly Movies Streamed Last Month                      | Easy       |        |        |               |
-| 1511 | Customer Order Frequency                                 | Easy       |        |        |               |
-| 1517 | Find Users With Valid Emails                             | Easy       |        |        |               |
-| 1527 | Patients With A Condition                                | Easy       |        |        |               |
-| 1543 | Fix Product Name Format                                  | Easy       |        |        |               |
-| 1565 | Unique Orders And Customers Per Month                    | Easy       |        |        |               |
-| 1571 | Warehouse Manager                                        | Easy       |        |        |               |
+| 1327 | List The Products Ordered In A Period                    | Easy       |        | Done   | 2021/6/26     |
+| 1350 | Students With Invalid Departments                        | Easy       |        | Done   | 2021/6/26     |
+| 1378 | Replace Employee ID With The Unique Identifier           | Easy       |        | Done   | 2021/6/26     |
+| 1407 | Top Travellers                                           | Easy       |        | Done   | 2021/6/26     |
+| 1435 | Create A Session Bar Chart                               | Easy       |        | Done   | 2021/6/26     |
+| 1484 | Group Sold Products By The Date                          | Easy       |        | Done   | 2021/6/26     |
+| 1495 | Friendly Movies Streamed Last Month                      | Easy       |        | Done   | 2021/6/26     |
+| 1511 | Customer Order Frequency                                 | Easy       |        | Done   | 2021/6/26     |
+| 1517 | Find Users With Valid Emails                             | Easy       |        | Done   | 2021/6/26     |
+| 1527 | Patients With A Condition                                | Easy       |        | Done   | 2021/6/26     |
+| 1543 | Fix Product Name Format                                  | Easy       |        | Done   | 2021/6/26     |
+| 1565 | Unique Orders And Customers Per Month                    | Easy       |        | Done   | 2021/6/26     |
+| 1571 | Warehouse Manager                                        | Easy       |        | Done   | 2021/6/26     |
 | 1581 | Customer Who Visited But Did Not Make Any Transactions   | Easy       |        |        |               |
 | 1587 | Bank Account Summary II                                  | Easy       |        |        |               |
 | 1607 | Sellers With No Sales                                    | Easy       |        |        |               |
