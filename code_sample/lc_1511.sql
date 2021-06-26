@@ -45,6 +45,10 @@ VALUES
     (9, 3, 30, '2020-05-08', 3);
     
 # Solution 1(self, correct)
+With date_table as(
+    SELECT '202006' AS month
+    UNION ALL SELECT '202007' AS month
+)
 SELECT C.customer_id , C.name
 FROM
 (
