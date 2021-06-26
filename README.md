@@ -114,6 +114,10 @@
 - Date
 - First or Last transaction
     - **LC 1070** [Problem](https://github.com/yuting1214/Leetcode_Database/blob/master/code_problem/lc_1070.md) | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1070.sql) 
+- String
+    - Recipe 6.10.[**Creating a Delimited List from Table Rows**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/recipe_6_10.md)
+
+
 # Reference
 - Question & Answer <https://circlecoder.com/leetcode-database-solution-list/>
 
