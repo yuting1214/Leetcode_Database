@@ -20,6 +20,7 @@
 - 2021/06/20, (E:8, M:1)
 - 2021/06/21, (E:8, M:2)
 - 2021/06/22, (E:5, M:1)
+- 2021/06/25, (E:4)
 # Table of categories
 
 ## Part.1 Problems
@@ -78,6 +79,8 @@
 ### 2021/06/25
 - 1251 - **Average Selling Price Problem** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1251.sql)
 - 1294 - **Weather Type In Each Country** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1294.sql)
+- 1303 - **Find The Team Size** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1303.sql)
+- 1322 - **Ads Performance** - [Problem]() | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1322.sql)
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
