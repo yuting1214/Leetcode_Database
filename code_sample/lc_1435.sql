@@ -1,3 +1,18 @@
+# Table
+CREATE TABLE Sessions 
+(
+     session_id 	integer,
+     duration 	integer
+);
+
+INSERT INTO Sessions (session_id, duration)
+VALUES
+    (1, 30),
+    (2, 199),
+    (3, 299),
+    (4, 580),
+    (5, 1000);
+    
 # Solution 1(self, wrong)
 SELECT bin_table.bin , COUNT( bin_table.session_id)
 FROM 
