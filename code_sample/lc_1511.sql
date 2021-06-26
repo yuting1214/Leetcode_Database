@@ -44,21 +44,44 @@ VALUES
     (7, 3, 30, '2020-06-25', 2),
     (9, 3, 30, '2020-05-08', 3);
     
-# Solution 1
-
-With date_table AS(
-  SELECT '2020-06' AS month;
-  UNION ALL SELECT '2020-07' AS month;
-)
-SELECT customer_id 
-FROM Customers
-
-
+# Solution 1(self, correct)
+SELECT C.customer_id , C.name
 FROM
-Orders O
+(
+SELECT group_table.customer_id
+FROM 
+(SELECT 
+    month_table.customer_id AS customer_id, 
+    month_table.month,
+    IFNULL(SUM(P.price * O.quantity ), 0) AS amount
+FROM
+(SELECT customer_id, month
+FROM Customers
+CROSS JOIN date_table) month_table
+LEFT JOIN Orders O
+ON
+    month_table.customer_id = O.customer_id AND
+    month_table.month = EXTRACT(Year_MONTH FROM O.order_date)
 LEFT JOIN Product P
-USING(product_id)
-WHERE 
-  O.order_date >= '2020-06-01' AND
-   O.order_date < '2020-08-01'
-GROUP BY O.customer_id, EXTRACT(Month FROM O.order_date)
+ON O.product_id  = P.product_id  
+GROUP BY month_table.customer_id, month_table.month) group_table
+GROUP BY group_table.customer_id
+HAVING SUM(group_table.amount < 100) = 0) result_table
+LEFT JOIN Customers C
+ON result_table.customer_id = C.customer_id;
+
+# Solution 2(reference, correct)
+SELECT C.customer_id, C.name
+FROM
+(
+SELECT
+    O.customer_id,
+    SUM(CASE WHEN EXTRACT(Year_MONTH FROM O.order_date) = '202006' THEN P.price * O.quantity ELSE 0 END) AS June,
+    SUM(CASE WHEN EXTRACT(Year_MONTH FROM O.order_date) = '202007' THEN P.price * O.quantity ELSE 0 END) AS July
+FROM  Orders O
+LEFT JOIN Product P
+USING (product_id)
+GROUP BY O.customer_id) pivot
+LEFT JOIN Customers C
+USING(customer_id)
+WHERE pivot.June >= 100 AND pivot.July >= 100
