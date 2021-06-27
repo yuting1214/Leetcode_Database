@@ -22,6 +22,7 @@
 - 2021/06/22, (E:5, M:1)
 - 2021/06/25, (E:4)
 - 2021/06/26, (E:13)
+- 2021/06/26, (E:5, M:1)
 # Table of categories
 
 ## Part.1 Problems
@@ -96,7 +97,13 @@
 - 1543 - **Fix Product Name Format** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1543.sql)
 - 1565 - **Unique Orders And Customers Per Month** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1565.sql)
 - 1571 - **Warehouse Manager** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1571.sql)
-  
+### 2021/06/27
+- 1581 - **Customer Who Visited But Did Not Make Any Transactions** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1581.sql)
+- 1587 - **Bank Account Summary II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1587.sql)
+- 1607 - **Sellers With No Sales** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1607.sql)
+- 1623 - **All Valid Triplets That Can Represent A Country** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1623.sql)
+- 1633 - **Percentage Of Users Attended A Contest** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1633.sql) ***Marked**
+
 ## Medium
 ### 2021/06/19
 - 534 - **Game Play Analysis III** - [Problem]() | [Practice]() ***Marked**
@@ -107,6 +114,9 @@
 - 184 - **Department Highest Salary Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_184.sql)
 ### 2021/06/22
 - 1174 - **Immediate Food Delivery II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1174.sql)
+### 2021/06/27
+- 1555 - **Bank Account Summary** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_555.sql)
+
 ## Hard
 
 
