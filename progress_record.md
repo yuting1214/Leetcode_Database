@@ -1,5 +1,5 @@
 # Easy problems (Total:78, Completed: 54)
-| No.  | Problem                                                  | Difficulty | Answer | Status | Finished date |
+| No.  | Problem                                                  | Difficulty | Marked | Status | Finished date |
 |------|----------------------------------------------------------|------------|--------|--------|---------------|
 | 175  | Combine Two Tables                                       | Easy       |        | Done   | 2021/6/18     |
 | 176  | Second Highest Salary                                    | Easy       |        | Done   | 2021/6/18     |
@@ -80,9 +80,10 @@
 | 1873 | Calculate Special Bonus                                  | Easy       |        |        |               |
 | 1890 | The Latest Login in 2020                                 | Easy       |        |        |               |
 
+
 # Medium Problems (Total:65, Completed:5)
-| No.  | Problem                                                | Difficulty | Answer | Status | Finished date |
-|------|--------------------------------------------------------|------------|:------:|:------:|:-------------:|
+| No.  | Problem                                                | Difficulty | Marked | Status | Finished date |
+|------|--------------------------------------------------------|------------|--------|--------|---------------|
 | 177  | Nth Highest Salary                                     | Medium     |        |        |               |
 | 178  | Rank Scores                                            | Medium     |        |        |               |
 | 180  | Consecutive Numbers                                    | Medium     |        |        |               |
@@ -150,28 +151,28 @@
 | 1875 | Group Employees of the Same Salary                     | Medium     |        |        |               |
 
 # Hard Problems (23)
-| No.  | Problem                                | Difficulty | Solution | Answer | Status | Finished date |
-|------|----------------------------------------|------------|----------|--------|--------|---------------|
-| 185  | Department Top Three Salaries          | Hard       | Link     |        |        |               |
-| 262  | Trips And Users                        | Hard       | Link     |        |        |               |
-| 569  | Median Employee Salary                 | Hard       | Link     |        |        |               |
-| 571  | Find Median Given Frequency Of Numbers | Hard       | Link     |        |        |               |
-| 579  | Find Cumulative Salary Of An Employee  | Hard       | Link     |        |        |               |
-| 601  | Human Traffic Of Stadium               | Hard       | Link     |        |        |               |
-| 615  | Average Salary: Departments VS Company | Hard       | Link     |        |        |               |
-| 618  | Students Report By Geography           | Hard       | Link     |        |        |               |
-| 1097 | Game Play Analysis V                   | Hard       | Link     |        |        |               |
-| 1127 | User Purchase Platform                 | Hard       | Link     |        |        |               |
-| 1159 | Market Analysis II                     | Hard       | Link     |        |        |               |
-| 1194 | Tournament Winners                     | Hard       | Link     |        |        |               |
-| 1225 | Report Contiguous Dates                | Hard       | Link     |        |        |               |
-| 1336 | Number Of Transactions Per Visit       | Hard       | Link     |        |        |               |
-| 1369 | Get The Second Most Recent Activity    | Hard       | Link     |        |        |               |
-| 1384 | Total Sales Amount By Year             | Hard       | Link     |        |        |               |
-| 1412 | Find The Quiet Students In All Exams   | Hard       | Link     |        |        |               |
-| 1479 | Sales By Day Of The Week               | Hard       | Link     |        |        |               |
-| 1635 | Hopper Company Queries I               | Hard       | Link     |        |        |               |
-| 1645 | Hopper Company Queries II              | Hard       | Link     |        |        |               |
-| 1651 | Hopper Company Queries III             | Hard       | Link     |        |        |               |
-| 1767 | Find The Subtasks That Did Not Execute | Hard       | Link     |        |        |               |
-| 1892 | Page Recommendations II                | Hard       | Link     |        |        |               |
+| No.  | Problem                                | Difficulty | Marked | Status | Finished date |
+|------|----------------------------------------|------------|--------|--------|---------------|
+| 185  | Department Top Three Salaries          | Hard       |        |        |               |
+| 262  | Trips And Users                        | Hard       |        |        |               |
+| 569  | Median Employee Salary                 | Hard       |        |        |               |
+| 571  | Find Median Given Frequency Of Numbers | Hard       |        |        |               |
+| 579  | Find Cumulative Salary Of An Employee  | Hard       |        |        |               |
+| 601  | Human Traffic Of Stadium               | Hard       |        |        |               |
+| 615  | Average Salary: Departments VS Company | Hard       |        |        |               |
+| 618  | Students Report By Geography           | Hard       |        |        |               |
+| 1097 | Game Play Analysis V                   | Hard       |        |        |               |
+| 1127 | User Purchase Platform                 | Hard       |        |        |               |
+| 1159 | Market Analysis II                     | Hard       |        |        |               |
+| 1194 | Tournament Winners                     | Hard       |        |        |               |
+| 1225 | Report Contiguous Dates                | Hard       |        |        |               |
+| 1336 | Number Of Transactions Per Visit       | Hard       |        |        |               |
+| 1369 | Get The Second Most Recent Activity    | Hard       |        |        |               |
+| 1384 | Total Sales Amount By Year             | Hard       |        |        |               |
+| 1412 | Find The Quiet Students In All Exams   | Hard       |        |        |               |
+| 1479 | Sales By Day Of The Week               | Hard       |        |        |               |
+| 1635 | Hopper Company Queries I               | Hard       |        |        |               |
+| 1645 | Hopper Company Queries II              | Hard       |        |        |               |
+| 1651 | Hopper Company Queries III             | Hard       |        |        |               |
+| 1767 | Find The Subtasks That Did Not Execute | Hard       |        |        |               |
+| 1892 | Page Recommendations II                | Hard       |        |        |               |
