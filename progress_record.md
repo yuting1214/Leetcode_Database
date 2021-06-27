@@ -57,11 +57,11 @@
 | 1543 | Fix Product Name Format                                  | Easy       |        | Done   | 2021/6/26     |
 | 1565 | Unique Orders And Customers Per Month                    | Easy       |        | Done   | 2021/6/26     |
 | 1571 | Warehouse Manager                                        | Easy       |        | Done   | 2021/6/26     |
-| 1581 | Customer Who Visited But Did Not Make Any Transactions   | Easy       |        |        |               |
-| 1587 | Bank Account Summary II                                  | Easy       |        |        |               |
-| 1607 | Sellers With No Sales                                    | Easy       |        |        |               |
-| 1623 | All Valid Triplets That Can Represent A Country          | Easy       |        |        |               |
-| 1633 | Percentage Of Users Attended A Contest                   | Easy       |        |        |               |
+| 1581 | Customer Who Visited But Did Not Make Any Transactions   | Easy       |        | Done   | 2021/6/27     |
+| 1587 | Bank Account Summary II                                  | Easy       |        | Done   | 2021/6/27     |
+| 1607 | Sellers With No Sales                                    | Easy       |        | Done   | 2021/6/27     |
+| 1623 | All Valid Triplets That Can Represent A Country          | Easy       |        | Done   | 2021/6/27     |
+| 1633 | Percentage Of Users Attended A Contest                   | Easy       |        | Done   | 2021/6/27     |
 | 1661 | Average Time Of Process Per Machine                      | Easy       |        |        |               |
 | 1667 | Fix Names In A Table                                     | Easy       |        |        |               |
 | 1677 | Product’s Worth Over Invoices                            | Easy       |        |        |               |
@@ -80,7 +80,7 @@
 | 1873 | Calculate Special Bonus                                  | Easy       |        |        |               |
 | 1890 | The Latest Login in 2020                                 | Easy       |        |        |               |
 
-# Medium Problems (Total:65, Completed:3)
+# Medium Problems (Total:65, Completed:5)
 | No.  | Problem                                                | Difficulty | Answer | Status | Finished date |
 |------|--------------------------------------------------------|------------|:------:|:------:|:-------------:|
 | 177  | Nth Highest Salary                                     | Medium     |        |        |               |
@@ -134,7 +134,7 @@
 | 1501 | Countries You Can Safely Invest In                     | Medium     |        |        |               |
 | 1532 | The Most Recent Three Orders                           | Medium     |        |        |               |
 | 1549 | The Most Recent Orders For Each Product                | Medium     |        |        |               |
-| 1555 | Bank Account Summary                                   | Medium     |        |        |               |
+| 1555 | Bank Account Summary                                   | Medium     |        | Done   | 2021/6/27     |
 | 1596 | The Most Frequently Ordered Products For Each Customer | Medium     |        |        |               |
 | 1613 | Find The Missing IDs                                   | Medium     |        |        |               |
 | 1699 | Number Of Calls Between Two Persons                    | Medium     |        |        |               |
