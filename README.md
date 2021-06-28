@@ -116,7 +116,9 @@
 - 1174 - **Immediate Food Delivery II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1174.sql)
 ### 2021/06/27
 - 1555 - **Bank Account Summary** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_555.sql)
-
+### 2021/06/28
+- 178 - **Rank Scores Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_178.sql)  ***Marked**
+- 570 - **Managers With At Least 5 Direct Reports** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_570.sql) 
 ## Hard
 
 
