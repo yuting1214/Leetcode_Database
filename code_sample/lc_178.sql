@@ -12,7 +12,8 @@ VALUES
     (4, 3.85),
     (5, 4.00),
     (6, 3.65);
-    
+
+# Solution 1(self, correct)
 SELECT
     Score,
     Id,
@@ -22,3 +23,11 @@ SELECT
 FROM 
 tableName
 ORDER BY Id;
+
+# Solution 2(reference, correct)
+SELECT s.Score, 
+       (SELECT COUNT(DISTINCT s2.Score)
+        FROM tablename s2
+        WHERE s2.Score > s.Score) + 1 AS "Rank"
+FROM tablename s
+ORDER BY s.Score DESC
