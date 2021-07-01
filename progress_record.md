@@ -85,13 +85,13 @@
 | No.  | Problem                                                | Difficulty | Marked | Status | Finished date |
 |------|--------------------------------------------------------|------------|--------|--------|---------------|
 | 177  | Nth Highest Salary                                     | Medium     |        |        |               |
-| 178  | Rank Scores                                            | Medium     |        |        |               |
+| 178  | Rank Scores                                            | Medium     |        | Done   | 2021/6/28     |
 | 180  | Consecutive Numbers                                    | Medium     |        |        |               |
 | 184  | Department Highest Salary                              | Medium     |        | Done   | 2021/6/21     |
 | 534  | Game Play Analysis III                                 | Medium     |        |        |               |
 | 550  | Game Play Analysis IV                                  | Medium     |        |        |               |
-| 570  | Managers With At Least 5 Direct Reports                | Medium     |        |        |               |
-| 574  | Winning Candidate                                      | Medium     |        |        |               |
+| 570  | Managers With At Least 5 Direct Reports                | Medium     |        | Done   | 2021/6/28     |
+| 574  | Winning Candidate                                      | Medium     |        | Done   | 2021/6/28     |
 | 578  | Get Highest Answer Rate Question                       | Medium     |        |        |               |
 | 580  | Count Student Number In Departments                    | Medium     |        |        |               |
 | 585  | Investments In 2016                                    | Medium     |        |        |               |
