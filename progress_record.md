@@ -81,35 +81,35 @@
 | 1890 | The Latest Login in 2020                                 | Easy       |        |        |               |
 
 
-# Medium Problems (Total:65, Completed:5)
+# Medium Problems (Total:65, Completed:25)
 | No.  | Problem                                                | Difficulty | Marked | Status | Finished date |
 |------|--------------------------------------------------------|------------|--------|--------|---------------|
 | 177  | Nth Highest Salary                                     | Medium     |        |        |               |
 | 178  | Rank Scores                                            | Medium     |        | Done   | 2021/6/28     |
 | 180  | Consecutive Numbers                                    | Medium     |        |        |               |
 | 184  | Department Highest Salary                              | Medium     |        | Done   | 2021/6/21     |
-| 534  | Game Play Analysis III                                 | Medium     |        |        |               |
+| 534  | Game Play Analysis III                                 | Medium     |        | Done   | 2021/6/19     |
 | 550  | Game Play Analysis IV                                  | Medium     |        |        |               |
 | 570  | Managers With At Least 5 Direct Reports                | Medium     |        | Done   | 2021/6/28     |
 | 574  | Winning Candidate                                      | Medium     |        | Done   | 2021/6/28     |
-| 578  | Get Highest Answer Rate Question                       | Medium     |        |        |               |
-| 580  | Count Student Number In Departments                    | Medium     |        |        |               |
-| 585  | Investments In 2016                                    | Medium     |        |        |               |
-| 602  | Friend Requests II: Who Has The Most Friends           | Medium     |        |        |               |
-| 608  | Tree Node                                              | Medium     |        |        |               |
-| 612  | Shortest Distance In A Plane                           | Medium     |        |        |               |
-| 614  | Second Degree Follower                                 | Medium     |        |        |               |
-| 626  | Exchange Seats                                         | Medium     |        |        |               |
-| 1045 | Customers Who Bought All Products                      | Medium     |        |        |               |
+| 578  | Get Highest Answer Rate Question                       | Medium     |        | Done   | 2021/7/01     |
+| 580  | Count Student Number In Departments                    | Medium     |        | Done   | 2021/7/01     |
+| 585  | Investments In 2016                                    | Medium     |        | Done   | 2021/7/02     |
+| 602  | Friend Requests II: Who Has The Most Friends           | Medium     |        | Done   | 2021/7/02     |
+| 608  | Tree Node                                              | Medium     |        | Done   | 2021/7/02     |
+| 612  | Shortest Distance In A Plane                           | Medium     |        | Done   | 2021/7/02     |
+| 614  | Second Degree Follower                                 | Medium     |        | Done   | 2021/7/02     |
+| 626  | Exchange Seats                                         | Medium     |        | Done   | 2021/7/02     |
+| 1045 | Customers Who Bought All Products                      | Medium     |        | Done   | 2021/7/02     |
 | 1070 | Product Sales Analysis III                             | Medium     |        | Done   | 2021/6/20     |
 | 1077 | Project Employees III                                  | Medium     |        | Done   | 2021/6/21     |
-| 1098 | Unpopular Books                                        | Medium     |        |        |               |
-| 1107 | New Users Daily Count                                  | Medium     |        |        |               |
-| 1112 | Highest Grade For Each Student                         | Medium     |        |        |               |
-| 1126 | Active Business                                        | Medium     |        |        |               |
-| 1132 | Reported Posts II                                      | Medium     |        |        |               |
-| 1149 | Article Views II                                       | Medium     |        |        |               |
-| 1158 | Market Analysis I                                      | Medium     |        |        |               |
+| 1098 | Unpopular Books                                        | Medium     |        | Done   | 2021/7/03     |
+| 1107 | New Users Daily Count                                  | Medium     |        | Done   | 2021/7/02     |
+| 1112 | Highest Grade For Each Student                         | Medium     |        | Done   | 2021/7/03     |
+| 1126 | Active Business                                        | Medium     |        | Done   | 2021/7/03     |
+| 1132 | Reported Posts II                                      | Medium     |        | Done   | 2021/7/03     |
+| 1149 | Article Views II                                       | Medium     |        | Done   | 2021/7/03     |
+| 1158 | Market Analysis I                                      | Medium     |        | Done   | 2021/7/03     |
 | 1164 | Product Price At A Given Date                          | Medium     |        |        |               |
 | 1174 | Immediate Food Delivery II                             | Medium     |        | Done   | 2021/6/22     |
 | 1193 | Monthly Transactions I                                 | Medium     |        |        |               |
@@ -150,7 +150,7 @@
 | 1867 | Orders With Maximum Quantity Above Average             | Medium     |        |        |               |
 | 1875 | Group Employees of the Same Salary                     | Medium     |        |        |               |
 
-# Hard Problems (23)
+# Hard Problems (Total:23, Completed:1)
 | No.  | Problem                                | Difficulty | Marked | Status | Finished date |
 |------|----------------------------------------|------------|--------|--------|---------------|
 | 185  | Department Top Three Salaries          | Hard       |        |        |               |
@@ -163,7 +163,7 @@
 | 618  | Students Report By Geography           | Hard       |        |        |               |
 | 1097 | Game Play Analysis V                   | Hard       |        |        |               |
 | 1127 | User Purchase Platform                 | Hard       |        |        |               |
-| 1159 | Market Analysis II                     | Hard       |        |        |               |
+| 1159 | Market Analysis II                     | Hard       |        | Done   | 2021/7/03     |
 | 1194 | Tournament Winners                     | Hard       |        |        |               |
 | 1225 | Report Contiguous Dates                | Hard       |        |        |               |
 | 1336 | Number Of Transactions Per Visit       | Hard       |        |        |               |
