@@ -24,6 +24,9 @@
 - 2021/06/26, (E:13)
 - 2021/06/27, (E:5, M:1)
 - 2021/06/28, (M:3)
+- 2021/07/01, (M:2)
+- 2021/07/02, (M:8)
+- 2021/07/03, (M:6, H:1)
 # Table of categories
 
 ## Part.1 Problems
@@ -121,9 +124,28 @@
 - 178 - **Rank Scores Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_178.sql)  ***Marked**
 - 570 - **Managers With At Least 5 Direct Reports** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_570.sql) 
 - 574 - **Winning Candidate** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_574.sql) ***Marked**
-
+### 2021/07/01
+- 578 - **Get Highest Answer Rate Question** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_578.sql) 
+- 580 - **Count Student Number In Departments** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_580.sql) 
+### 2021/07/02
+- 585 - **Investments In 2016** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_585.sql) 
+- 602 - **Friend Requests II: Who Has The Most Friends** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_602.sql) 
+- 608 - **Tree Node** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_608.sql) 
+- 612 - **Shortest Distance In A Plane** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_612.sql) 
+- 614 - **Second Degree Follower** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_614.sql) 
+- 626 - **Exchange Seats** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_626.sql) 
+- 1045 - **Customers Who Bought All Products** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1045.sql) 
+- 1107 - **New Users Daily Count** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1107.sql) 
+### 2021/07/03
+- 1112 - **Highest Grade For Each Student** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1112.sql) 
+- 1098 - **Unpopular Books** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1098.sql)
+- 1126 - **Active Business** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1126.sql)
+- 1132 - **Reported Posts II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1132.sql)
+- 1149 - **Article Views II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1149.sql)
+- 1158 - **Market Analysis I** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1158.sql)
 ## Hard
-
+### 2021/07/03
+- 1159 - **Market Analysis II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1159.sql)
 
 # Part.2 Note
 
