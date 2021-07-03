@@ -67,3 +67,17 @@ LEFT JOIN
     FROM Orders) S
   WHERE order_date = start_date) Second
 ON F.user_id = Second.seller_id 
+
+# Solutoin 2(reference, correct)
+select u.user_id as seller_id, 
+    case when u.favorite_brand = b.item_brand then 'yes' else 'no' end as 2nd_item_fav_brand 
+from users u
+left join 
+    (select seller_id, a.item_id, r, item_brand
+    from (select *, row_number() over (partition by seller_id order by order_date) as r
+         from orders) a 
+    join items i
+    on a.item_id = i.item_id
+    where r = 2) b 
+on u.user_id = b.seller_id;
+
