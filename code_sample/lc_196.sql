@@ -1,3 +1,9 @@
+# Data
+create table Person (Id  integer, Email varchar(50));
+insert into Person(Id, Email) values(1, 'john@example.com');
+insert into Person(Id, Email) values(2, 'bob@example.com');
+insert into Person(Id, Email) values(3, 'john@example.com');
+
 # Solution 1
 DELETE FROM Person
 WHERE Id IN
