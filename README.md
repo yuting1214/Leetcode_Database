@@ -169,6 +169,11 @@
     - Recipe 6.10.[**Creating a Delimited List from Table Rows**](https://github.com/yuting1214/Leetcode_Database/blob/master/common_patterns/recipe_6_10.md)
     - Regular expression [[**Find pattern**]]()
 
+# Review
+## 2022/01/01
+- 196
+- 512
+- 597
 
 # Reference
 - Question & Answer <https://circlecoder.com/leetcode-database-solution-list/>
