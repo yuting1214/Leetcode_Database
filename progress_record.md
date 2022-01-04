@@ -81,7 +81,7 @@
 | 1890 | The Latest Login in 2020                                 | Easy       |        |        |               |
 
 
-# Medium Problems (Total:65, Completed:25)
+# Medium Problems (Total:65, Completed:30)
 | No.  | Problem                                                | Difficulty | Marked | Status | Finished date |
 |------|--------------------------------------------------------|------------|--------|--------|---------------|
 | 177  | Nth Highest Salary                                     | Medium     |        |        |               |
@@ -110,12 +110,12 @@
 | 1132 | Reported Posts II                                      | Medium     |        | Done   | 2021/7/03     |
 | 1149 | Article Views II                                       | Medium     |        | Done   | 2021/7/03     |
 | 1158 | Market Analysis I                                      | Medium     |        | Done   | 2021/7/03     |
-| 1164 | Product Price At A Given Date                          | Medium     |        |        |               |
+| 1164 | Product Price At A Given Date                          | Medium     |        | Done   | 2022/1/02     |
 | 1174 | Immediate Food Delivery II                             | Medium     |        | Done   | 2021/6/22     |
-| 1193 | Monthly Transactions I                                 | Medium     |        |        |               |
-| 1204 | Last Person To Fit In The Elevator                     | Medium     |        |        |               |
-| 1205 | Monthly Transactions II                                | Medium     |        |        |               |
-| 1212 | Team Scores In Football Tournament                     | Medium     |        |        |               |
+| 1193 | Monthly Transactions I                                 | Medium     |        | Done   | 2022/1/02     |
+| 1204 | Last Person To Fit In The Elevator                     | Medium     |        | Done   | 2022/1/03     |
+| 1205 | Monthly Transactions II                                | Medium     |        | Done   | 2022/1/02     |
+| 1212 | Team Scores In Football Tournament                     | Medium     |        | Done   | 2022/1/03     |
 | 1264 | Page Recommendations                                   | Medium     |        |        |               |
 | 1270 | All People Report To The Given Manager                 | Medium     |        |        |               |
 | 1285 | Find The Start And End Number Of Continuous Ranges     | Medium     |        |        |               |
