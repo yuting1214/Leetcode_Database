@@ -27,6 +27,8 @@
 - 2021/07/01, (M:2)
 - 2021/07/02, (M:8)
 - 2021/07/03, (M:6, H:1)
+- 2022/01/02, (M:3)
+- 2021/01/03, (M:2)
 # Table of categories
 
 ## Part.1 Problems
@@ -143,6 +145,14 @@
 - 1132 - **Reported Posts II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1132.sql)
 - 1149 - **Article Views II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1149.sql)
 - 1158 - **Market Analysis I** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1158.sql)
+### 2022/01/02
+- 1164 - **Product Price At A Given Date** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1164.sql) 
+- 1193 - **Monthly Transactions I** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1193.sql)
+- 1205 - **Monthly Transactions II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1205.sql)
+### 2022/01/03
+- 1204 - **Last Person To Fit In The Elevator** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1204.sql)
+- 1212 - **Team Scores In Football Tournament** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1212.sql) 
+
 ## Hard
 ### 2021/07/03
 - 1159 - **Market Analysis II** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1159.sql)
