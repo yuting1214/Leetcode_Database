@@ -189,6 +189,10 @@
 - Question & Answer <https://circlecoder.com/leetcode-database-solution-list/>
 - Answer https://github.com/YC-Coder-Chen/leetCode-SQL/blob/master/README.md
 
+# Practice Platform
+- [MySQL online](https://paiza.io/projects/ML96TXz-N8-uW1Q3Fn6PiQ?language=mysql)
+- [Table generator](https://www.tablesgenerator.com/markdown_tables#)
+
 # Material
 - [SQL Cookbook](https://www.oreilly.com/library/view/sql-cookbook/0596009763/)(PDF)
 - [SQL Cookbook, 2nd Edition](https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/)
