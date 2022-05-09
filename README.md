@@ -152,9 +152,13 @@
 ### 2022/01/03
 - 1204 - **Last Person To Fit In The Elevator** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1204.sql)
 - 1212 - **Team Scores In Football Tournament** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1212.sql) 
-### 2021/05/06
+### 2022/05/06
 - 1264 - **Page Recommendations Problemt** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1264.sql) 
 
+### 2022/05/09
+- 1270 - **All People Report To The Given Manager Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1270.sql) 
+- 1285 - **Find The Start And End Number Of Continuous Ranges Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1285.sql) 
+- 1308 - **Running Total For Different Genders Problem** - [Problem] | [Practice](https://github.com/yuting1214/Leetcode_Database/blob/master/code_sample/lc_1308.sql) 
 
 ## Hard
 ### 2021/07/03
