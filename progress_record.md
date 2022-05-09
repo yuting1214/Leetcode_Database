@@ -81,7 +81,7 @@
 | 1890 | The Latest Login in 2020                                 | Easy       |        |        |               |
 
 
-# Medium Problems (Total:65, Completed:30)
+# Medium Problems (Total:65, Completed:33)
 | No.  | Problem                                                | Difficulty | Marked | Status | Finished date |
 |------|--------------------------------------------------------|------------|--------|--------|---------------|
 | 177  | Nth Highest Salary                                     | Medium     |        |        |               |
@@ -116,10 +116,10 @@
 | 1204 | Last Person To Fit In The Elevator                     | Medium     |        | Done   | 2022/1/03     |
 | 1205 | Monthly Transactions II                                | Medium     |        | Done   | 2022/1/02     |
 | 1212 | Team Scores In Football Tournament                     | Medium     |        | Done   | 2022/1/03     |
-| 1264 | Page Recommendations                                   | Medium     |        |        |               |
-| 1270 | All People Report To The Given Manager                 | Medium     |        |        |               |
-| 1285 | Find The Start And End Number Of Continuous Ranges     | Medium     |        |        |               |
-| 1308 | Running Total For Different Genders                    | Medium     |        |        |               |
+| 1264 | Page Recommendations                                   | Medium     |        | Done   | 2022/5/06     |
+| 1270 | All People Report To The Given Manager                 | Medium     |        | Done   | 2022/5/09     |
+| 1285 | Find The Start And End Number Of Continuous Ranges     | Medium     |        | Done   | 2022/5/09     |
+| 1308 | Running Total For Different Genders                    | Medium     |        | Done   | 2022/5/09     |
 | 1321 | Restaurant Growth                                      | Medium     |        |        |               |
 | 1341 | Movie Rating                                           | Medium     |        |        |               |
 | 1355 | Activity Participants                                  | Medium     |        |        |               |
